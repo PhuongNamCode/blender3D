@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "blend_file": "C:\\Users\\namnp\\OneDrive\\Documents\\ChatGPT\\NeuroRAN-DigitalTwin\\blender3D\\artifacts\\meeting_room_reference\\2026-11-10\\meeting_room_reference_reconstruction.blend",
+  "render_file": "C:\\Users\\namnp\\OneDrive\\Documents\\ChatGPT\\NeuroRAN-DigitalTwin\\blender3D\\artifacts\\meeting_room_reference\\2026-11-10\\meeting_room_reference_reconstruction.png",
+  "blend_bytes": 185716,
+  "render_bytes": 1090413,
+  "object_count": 166,
+  "collections": [
+    "Architecture",
+    "Collection",
+    "Decor",
+    "Equipment",
+    "Furniture",
+    "Lighting"
+  ],
+  "errors": []
+}
