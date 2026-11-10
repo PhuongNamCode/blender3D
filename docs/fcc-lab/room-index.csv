@@ -1,0 +1,4 @@
+room_id,display_name,location,evidence,confidence,status
+2.301,Main FCC entrance/lobby,Entrance zone,IMG_0003 HEIC and IMG_0017-0019 HEIC,confirmed,blockout
+2.301.01,Adjacent side room near entrance,North-side corridor near main door,IMG_0006 HEIC,confirmed,blockout
+2.301.02,Office/lab room near entrance,North-side corridor near main door,IMG_0015 HEIC,confirmed,blockout

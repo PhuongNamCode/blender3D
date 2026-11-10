@@ -1,0 +1,44 @@
+C:\Users\namnp\OneDrive\Documents\ChatGPT\NeuroRAN-DigitalTwin\blender3D\src\blender3d\scenes\fcc_main_door_23010102.py:41: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+C:\Users\namnp\OneDrive\Documents\ChatGPT\NeuroRAN-DigitalTwin\blender3D\src\blender3d\scenes\fcc_main_door_23010102.py:252: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes = True
+00:39.250  render           | Saved: 'C:\Users\namnp\OneDrive\Documents\ChatGPT\NeuroRAN-DigitalTwin\blender3D\artifacts\fcc-lab\2026-11-10\fcc_main_door_23010102_entry.png'
+01:07.562  render           | Saved: 'C:\Users\namnp\OneDrive\Documents\ChatGPT\NeuroRAN-DigitalTwin\blender3D\artifacts\fcc-lab\2026-11-10\fcc_main_door_23010102_corridor.png'
+Info: Saved as "fcc_main_door_23010102_blockout.blend"
+Created: C:\Users\namnp\OneDrive\Documents\ChatGPT\NeuroRAN-DigitalTwin\blender3D\artifacts\fcc-lab\2026-11-10\fcc_main_door_23010102_blockout.blend
+Rendered: C:\Users\namnp\OneDrive\Documents\ChatGPT\NeuroRAN-DigitalTwin\blender3D\artifacts\fcc-lab\2026-11-10\fcc_main_door_23010102_entry.png
+Rendered: C:\Users\namnp\OneDrive\Documents\ChatGPT\NeuroRAN-DigitalTwin\blender3D\artifacts\fcc-lab\2026-11-10\fcc_main_door_23010102_corridor.png
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+00:10.641  blend            | Read blend: "C:\Users\namnp\OneDrive\Documents\ChatGPT\NeuroRAN-DigitalTwin\blender3D\artifacts\fcc-lab\2026-11-10\fcc_main_door_23010102_blockout.blend"
+{
+  "status": "passed",
+  "blend": "C:\\Users\\namnp\\OneDrive\\Documents\\ChatGPT\\NeuroRAN-DigitalTwin\\blender3D\\artifacts\\fcc-lab\\2026-11-10\\fcc_main_door_23010102_blockout.blend",
+  "renders": [
+    "C:\\Users\\namnp\\OneDrive\\Documents\\ChatGPT\\NeuroRAN-DigitalTwin\\blender3D\\artifacts\\fcc-lab\\2026-11-10\\fcc_main_door_23010102_entry.png",
+    "C:\\Users\\namnp\\OneDrive\\Documents\\ChatGPT\\NeuroRAN-DigitalTwin\\blender3D\\artifacts\\fcc-lab\\2026-11-10\\fcc_main_door_23010102_corridor.png"
+  ],
+  "blend_bytes": 142959,
+  "render_bytes": {
+    "C:\\Users\\namnp\\OneDrive\\Documents\\ChatGPT\\NeuroRAN-DigitalTwin\\blender3D\\artifacts\\fcc-lab\\2026-11-10\\fcc_main_door_23010102_entry.png": 984370,
+    "C:\\Users\\namnp\\OneDrive\\Documents\\ChatGPT\\NeuroRAN-DigitalTwin\\blender3D\\artifacts\\fcc-lab\\2026-11-10\\fcc_main_door_23010102_corridor.png": 1001947
+  },
+  "object_count": 77,
+  "required_objects": [
+    "Camera_Corridor",
+    "Camera_Entry",
+    "Door_2.301.01",
+    "Door_2.301.02",
+    "Main_Door_2.301_left",
+    "Main_Door_2.301_right",
+    "Room_2.301.01_floor",
+    "Room_2.301.02_floor",
+    "Room_2.301_floor"
+  ],
+  "errors": [],
+  "geometry_status": "provisional photo-guided blockout"
+}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
